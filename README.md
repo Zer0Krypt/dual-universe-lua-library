@@ -5,4 +5,4 @@ This is a library of player created lau scripts for the game Dual Universe. Thes
 If you would like to contribute to this library, please join our discord server: [Discord link soon!]
 
 ## Available Scripts
- * [ECU Autopilot](https://github.com/Zer0Krypt/dual-universe-lua-library/blob/master/dynamic-core-unit/ECU-Autopilot.lua) - by [Deadrank](https://community.dualthegame.com/accounts/profile/62565/)
+ * [ECU Autopilot](https://github.com/Zer0Krypt/dual-universe-lua-library/blob/master/dynamic-core-unit/ECU%20Autopilot%20-%20Deadrank/ECU%20Autopilot%20-%20Deadrank.md) - by [Deadrank](https://community.dualthegame.com/accounts/profile/62565/)

@@ -9,3 +9,6 @@ Type: ECU Autoconfig replacement
 Element Code: Emergency Controller (ECU)
 Link Slot Naming:
 * No link slots needed
+
+
+### (See Code)[https://github.com/Zer0Krypt/dual-universe-lua-library/blob/master/dynamic-core-unit/ECU%20Autopilot%20-%20Deadrank/ECU-Autopilot.lua]
