@@ -6,3 +6,4 @@ If you would like to contribute to this library, please join our discord server:
 
 ## Available Scripts
  * [ECU Autopilot](https://dualuniverselualibrary.page.link/ecu-autopilot-deadrank) - by [Deadrank](https://dualuniverselualibrary.page.link/deadrank)
+ * [DU Orbital HUD](https://dualuniverselualibrary.page.link/DU-Orbital-HUD-Dimencia) - by [Dimencia](https://dualuniverselualibrary.page.link/dimencia)
