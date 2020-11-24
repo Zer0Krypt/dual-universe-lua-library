@@ -10,7 +10,7 @@ Type: ECU Autoconfig replacement
   - maxPitch: __Set the maximum pitch your ship will use to climb or descend to your selected cruise altitidue (in degrees)__
 
 ## Instructions
-1. Download ECU-Autopilot.conf
+1. Download [ECU-Autopilot.conf](https://github.com/Zer0Krypt/dual-universe-lua-library/blob/master/dynamic-core-unit/ECU%20Autopilot%20-%20Deadrank/ECU-Autopilot.conf)
 2. Move ECU-Autopilot.conf to your game directory "C:\ProgramData\Dual Universe\Game\data\lua\autoconf\custom"
 3. Right Click ECU in game, Choose Advanced, Select "Update custom autoconf list"
 4. Right Click ECU in game, Choose Advanced, Select "ECU Autopilot Conf"
